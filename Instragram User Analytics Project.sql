@@ -1,3 +1,5 @@
+Select * from Ig_clone;
+
 -- A) Marketing Analysis:
 -- Identify the five oldest users on Instagram from the provided database.
 Select * from users
