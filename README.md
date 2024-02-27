@@ -1,4 +1,4 @@
-# Instagram-User-Analytics
+# Instagram User Analytics
 - Analyzed Instagram data using SQL and MySQL Workbench.
 
 - Extracted insights on user behavior for marketing, product, and development teams.
